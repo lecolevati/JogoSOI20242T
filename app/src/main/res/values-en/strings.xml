@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AulaSOI20242T</string>
+    <string name="jogar">Play</string>
+    <string name="reiniciar">Restart</string>
+    <string name="numero">Type a number</string>
+    <string name="maior">Number is bigger</string>
+    <string name="menor">Number is lower</string>
+    <string name="acertou">Gotcha: </string>
+    <string name="parabens">Congratulations</string>
+</resources>

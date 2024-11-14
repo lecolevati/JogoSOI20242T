@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AulaSOI20242T</string>
+    <string name="jogar">Jogar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="numero">Digite um número</string>
+    <string name="maior">O número é maior</string>
+    <string name="menor">O número é menor</string>
+    <string name="acertou">Acertou o número:</string>
+    <string name="parabens">Parabéns</string>
+</resources>
